@@ -1,0 +1,36 @@
+body {
+    width: 95%;
+    font-family: tahoma, serif;
+    margin: auto;
+}
+
+section > header {
+    background: url("../images/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 125px;
+}
+
+header > h1 {
+    margin-left: 10px;
+    color: white;
+}
+
+section > nav {
+    background-color: #444444
+}
+
+nav > a {
+    color: lime;
+}
+
+article {
+    background-color: lightgray;
+}
+
+header > h2 {
+    margin-top: 5px;
+    padding-top: 25px;
+    text-decoration-line: underline;
+    color: #444444;
+}

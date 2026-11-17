@@ -1,0 +1,32 @@
+section > h1 {
+    color: hotpink;
+    background-color: black;
+    margin-top: 50px;
+}
+
+section > h2 {
+    background-color: hotpink;
+    margin-bottom: -10px;
+}
+
+section > h3 {
+    background-color: green;
+    margin-bottom: -15px;
+    margin-left: 35px;
+}
+section > p {
+    margin-left: 55px;
+}
+
+article > h3 {
+    background-color: red;
+}
+
+article > p > a {
+    background-color: darkorange;
+}
+
+section > ul > li {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
